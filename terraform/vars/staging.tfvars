@@ -1,0 +1,11 @@
+app_service_name          = "tf-botv-appsrv-sg"
+app_service_plan_name     = "tf-botv-apppln-sg"
+app_service_always_on     = false
+app_service_plan_sku_name = "B1"
+aspnetcore_environment    = "Staging"
+db_name                   = "tf-botv-dbname-sg"
+db_server_name            = "tf-botv-dbserver-sg"
+db_user                   = "tf-botv-dbuser-sg"
+key_vault_name            = "tf-botv-kv-sg"
+region                    = "West Europe"
+resource_group_name       = "tf-botv-rg-sg"

@@ -1,0 +1,11 @@
+app_service_name          = "tf-botv-appsrv-prod"
+app_service_plan_name     = "tf-botv-apppln-prod"
+app_service_always_on     = true
+app_service_plan_sku_name = "P1v2"
+aspnetcore_environment    = "Production"
+db_name                   = "tf-botv-dbname-prod"
+db_server_name            = "tf-botv-dbserver-prod"
+db_user                   = "tf-botv-dbuser-prod"
+key_vault_name            = "tf-botv-kv-prod"
+region                    = "West Europe"
+resource_group_name       = "tf-botv-rg-prod"
