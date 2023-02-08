@@ -24,7 +24,7 @@ az login
 3. Navigate to the repository directory
 
 ```bash
-cd terraform-example
+cd terraform-example/terraform
 ```
 
 4. Check and modify the configuration files if necessary:
